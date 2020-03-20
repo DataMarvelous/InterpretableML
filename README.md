@@ -15,7 +15,7 @@ Implemented within this software are two novel Machine Learning algorithms, base
 off the Master's Thesis: Toward Efficient Automation of Interpretable Machine 
 Learning with Boosting, by Nathan Neuhaus. These algorithms are called the 
 Dominance Classifier Predictor (DCP) algorithm, and also the Reverse Prediction 
-Pattern Recognition boosting algorithm. 
+Pattern Recognition (RPPR) boosting algorithm. 
 
 Achievements
 ----------------
